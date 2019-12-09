@@ -53,7 +53,7 @@ function detectDayBudget() {
     }else if (appData.moneyPerDay > 100 && appData.moneyPerDay < 2000) {
         console.log("Высокий уровень достатка");
     } else {
-        alert ('хуйня давай сначала');
+        alert ('хуйня давай сначала');//cbhjdbcjh
     }
 }
 detectDayBudget();
