@@ -1,0 +1,10 @@
+прейти в нужный каталог
+git init
+git add -A
+регистрация
+git -m commit " название текущего сохранения"
+git remote add origin https://github.com/turpitkobogdan/LESSON_5.git
+git push -u origin master
+
+
+
